@@ -1,0 +1,6 @@
+name: Workflows
+on: 
+  workfow_dispatch:
+  push:
+    branches:
+      - main
